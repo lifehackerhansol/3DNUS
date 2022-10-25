@@ -1,6 +1,9 @@
 ![Status](https://raw.githubusercontent.com/zoltx23/3DNUS/master/wiki/new_3dnus_logo_128.png)
 # 3DNUS - Deprecated
-#### Current Version: Nightly | 3.3.1 (x86, x64) 
+#### Current Version: Nightly | 3.3.3-lhs1 (x64) (no x86, sorry not sorry)
+
+## I (lifehackerhansol) am not taking up maintainership. I just needed to fix one bug. Do not ask for any more releases from me.
+
 ## Introduction:
 
 What is 3DNUS? 3DNUS allows you to download NUS content for the Nintendo 3DS, and pack it as .cia(s) if you wish.
