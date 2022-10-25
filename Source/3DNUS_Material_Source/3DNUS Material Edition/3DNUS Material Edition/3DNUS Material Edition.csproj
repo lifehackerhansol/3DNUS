@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_3DNUS_Material_Edition</RootNamespace>
     <AssemblyName>3DNUS Material Edition</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -201,7 +201,7 @@
     <None Include="Resources\new_3dnus_splash_bck.png" />
     <None Include="Resources\vyV7NzW1.png" />
     <None Include="Resources\vyV7NzW.png" />
-    <None Include="Resources\NDP461-KB3102438-Web.exe" />
+    <None Include="Resources\ndp462-kb3151802-web.exe" />
     <None Include="Resources\make_cdn_cia.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
