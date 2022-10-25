@@ -326,7 +326,7 @@ namespace _3DNUS.Core
                 return;
             }
 
-            match = Regex.Match(t_titleid.Text, @"(0-9a-fA-F]{16})([\s_]*v?(\d+))?");
+            match = Regex.Match(t_titleid.Text, @"([0-9a-fA-F]{16})([\s_]*v?(\d+))?");
 
             if (match.Success)
             {
